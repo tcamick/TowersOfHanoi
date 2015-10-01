@@ -1,8 +1,10 @@
 # TowersOfHanoi
 Animation of the Towers of Hanoi
 
---Compile--
+--Compile
 >make
---Run the program--
+
+--Run the program
+
 ->java MainGui
 
